@@ -1,0 +1,26 @@
+{
+  "name": "prime-numbers-youngindia",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/youngindia/prime-numbers-youngindia.git"
+  },
+  "keywords": [
+    "prime-numbers-youngindia"
+  ],
+  "author": "youngindia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/youngindia/prime-numbers-youngindia/issues"
+  },
+  "homepage": "https://github.com/youngindia/prime-numbers-youngindia#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "fs-extra": "^11.2.0",
+    "uuid": "^9.0.1"
+  }
+}
